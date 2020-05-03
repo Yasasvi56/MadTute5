@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etID" type="id" />
+    <item name="etName" type="id" />
+    <item name="etAddress" type="id" />
+    <item name="etConNo" type="id" />
+    <item name="BtnSave" type="id" />
+    <item name="BtnShow" type="id" />
+    <item name="BtnUpdate" type="id" />
+    <item name="BtnDelete" type="id" />
+</resources>

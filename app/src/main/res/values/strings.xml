@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tute05</string>
+    <string name="id" />
+    <string name="name" />
+    <string name="address" />
+    <string name="number" />
+    <string name="show" />
+    <string name="save" />
+    <string name="update" />
+    <string name="delete" />
+</resources>
